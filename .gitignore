@@ -30,8 +30,11 @@
 !heaps/
 !heaps/**
 
-!linkedList/
-!linkedList/**
+!linkedList_1/
+!linkedList_1/**
+
+!linkedList_2/
+!linkedList_2/**
 
 !matrix/
 !matrix/**
